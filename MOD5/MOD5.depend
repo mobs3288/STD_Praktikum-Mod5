@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634973172 source:c:\users\user\desktop\c++\10-23-2021\mod5\main.cpp
+	"SLL.h"
+
+1637823638 c:\users\user\desktop\c++\10-23-2021\mod5\sll.h
+	<iostream>
+
+1634971332 source:c:\users\user\desktop\c++\10-23-2021\mod5\sll.cpp
+	"SLL.h"
+
